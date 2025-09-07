@@ -19,7 +19,7 @@ Projeto criado para praticar **arquitetura limpa**, **mensageria com Kafka**, **
 - [Funcionalidades](#-funcionalidades)  
 - [Roadmap](#-roadmap)  
 - [Como Rodar Localmente](#-como-rodar-localmente)  
-- [Próximos Passos](#-próximos-passos)  
+
 
 ---
 
